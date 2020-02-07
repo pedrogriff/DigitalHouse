@@ -1,0 +1,16 @@
+[ {
+    "nome": "Lola",
+    "idade": 6,
+    "castrado": true,
+    "servicos": ["Banho"]
+}, {
+    "nome": "Jack",
+    "idade": 4,
+    "castrado": false,
+    "servicos": ["Banho"]
+}, {
+    "nome": "Pipo",
+    "idade": 1,
+    "castrado": false,
+    "servicos": ["Banho"]
+}]
